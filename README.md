@@ -9,7 +9,7 @@ pip install beautifulsoup4
 
 ## Usage
 <ul>
-<li>Open the command window and direct to the "crawl" folder</li>
+<li>Open the command window</li>
 <li>Enter the following command
   
   ```
