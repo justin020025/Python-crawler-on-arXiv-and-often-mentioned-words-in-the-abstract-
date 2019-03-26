@@ -1,0 +1,300 @@
+https://arxiv.org/abs/1903.07611
+Total Power Map to Visibilities (TP2VIS): Joint Deconvolution of ALMA 12m, 7m, and Total Power Array Data
+Jin Koda; Peter Teuben; Tsuyoshi Sawada; Adele Plunkett; Ed Fomalont;
+https://arxiv.org/abs/1903.07595
+Morphing Contact Representations of Graphs
+Patrizio Angelini; Steven Chaplick; Sabine Cornelsen; Giordano Da Lozzo; Vincenzo Roselli;
+https://arxiv.org/abs/1903.07588
+A Multilingual Encoding Method for Text Classification and Dialect Identification Using Convolutional Neural Network
+Amr Adel Helmy;
+https://arxiv.org/abs/1903.07571
+Two models of double descent for weak features
+Mikhail Belkin; Daniel Hsu; Ji Xu;
+https://arxiv.org/abs/1903.07563
+Human Activity Recognition for Edge Devices
+Manjot Bilkhu; Hammababdullah Ayyubi;
+https://arxiv.org/abs/1903.07562
+Quantifying dynamics of failure across science, startups, and security
+Yian Yin; Yang Wang; James A. Evans; Dashun Wang;
+https://arxiv.org/abs/1903.07539
+Short Datathon for the Interdisciplinary Development of Data Analysis and Visualization Skills
+Myrian Noguera Salinas; Maria Claudia Figueiredo Pereira Emer; Adolfo Gustavo Serra Seca Neto;
+https://arxiv.org/abs/1903.07534
+LYRICS: a General Interface Layer to Integrate AI and Deep Learning
+Giuseppe Marra; Francesco Giannini; Michelangelo Diligenti; Marco Gori;
+https://arxiv.org/abs/1903.07531
+Counting independent sets and colorings on random regular bipartite graphs
+Chao Liao; Jiabao Lin; Pinyan Lu; Zhenyu Mao;
+https://arxiv.org/abs/1903.07525
+PZnet: Efficient 3D ConvNet Inference on Manycore CPUs
+Sergiy Popovych; Davit Buniatyan; Aleksandar Zlateski; Kai Li; H. Sebastian Seung;
+https://arxiv.org/abs/1903.07521
+Simulating feedback mechanisms in patient flow and return visits in an emergency department
+Christian Michel Sørup; Daniel Alberto Sepúlveda Estay; Peter Jacobsen; Philip Dean Anderson;
+https://arxiv.org/abs/1903.07520
+EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras
+Anton Mitrokhin; Chengxi Ye; Cornelia Fermuller; Yiannis Aloimonos; Tobi Delbruck;
+https://arxiv.org/abs/1903.07515
+Approximating exponential family models (not single distributions) with a two-network architecture
+Sean R. Bittner; John P. Cunningham;
+https://arxiv.org/abs/1903.07512
+A Comparison of Prediction Algorithms and Nexting for Short Term Weather Forecasts
+Michael Koller; Johannes Feldmaier; Klaus Diepold;
+https://arxiv.org/abs/1903.07510
+Forecasting the Progression of Alzheimer's Disease Using Neural Networks and a Novel Pre-Processing Algorithm
+Jack Albright;
+https://arxiv.org/abs/1903.07507
+An Effective Label Noise Model for DNN Text Classification
+Ishan Jindal; Daniel Pressel; Brian Lester; Matthew Nokleby;
+https://arxiv.org/abs/1903.07493
+Quadratic speedup for finding marked vertices by quantum walks
+Andris Ambainis; András Gilyén; Stacey Jeffery; Martins Kokainis;
+https://arxiv.org/abs/1903.07461
+Evolutionary Deep Learning to Identify Galaxies in the Zone of Avoidance
+David Jones; Geoff Nitschke;
+https://arxiv.org/abs/1903.07427
+Crowd Counting with Decomposed Uncertainty
+Min-hwan Oh; Peder A. Olsen; Karthikeyan Natesan Ramamurthy;
+https://arxiv.org/abs/1903.07424
+Communication-Efficient Federated Deep Learning with Asynchronous Model Update and Temporally Weighted Aggregation
+Yang Chen; Xiaoyan Sun; Yaochu Jin;
+https://arxiv.org/abs/1903.07418
+The Norms of Graph Spanners
+Eden Chlamtáč; Michael Dinitz; Thomas Robinson;
+https://arxiv.org/abs/1903.07414
+A Lightweight Optical Flow CNN -- Revisiting Data Fidelity and Regularization
+Tak-Wai Hui; Xiaoou Tang; Chen Change Loy;
+https://arxiv.org/abs/1903.07410
+Diversity in Combinatorial Optimization
+Julien Baste; Michael R. Fellows; Lars Jaffke; Tomáš Masařık; Mateus de Oliveira Oliveira; Geevarghese Philip; Frances A. Rosamond;
+https://arxiv.org/abs/1903.07406
+Automatic Classification of Pathology Reports using TF-IDF Features
+Shivam Kalra; Larry Li; Hamid R. Tizhoosh;
+https://arxiv.org/abs/1903.07397
+Un duel probabiliste pour départager deux présidents (LIA @ DEFT'2005)
+Marc El-Bèze; Juan-Manuel Torres-Moreno; Frédéric Béchet;
+https://arxiv.org/abs/1903.07395
+Voice command generation using Progressive Wavegans
+Thomas Wiest; Nicholas Cummins; Alice Baird; Simone Hantke; Judith Dineley; Björn Schuller;
+https://arxiv.org/abs/1903.07390
+Probabilistic Energy Forecasting using Quantile Regressions based on a new Nearest Neighbors Quantile Filter
+Jorge Ángel González Ordiano (1); Lutz Gröll (1); Ralf Mikut (1); Veit Hagenmeyer (1) ((1) Institute for Automation and Applied Informatics; Karlsruhe Institute of Technology)    ;
+https://arxiv.org/abs/1903.07385
+Spin- and angle-resolved studies of the electronic structure of Si(110)"16x2" surfaces
+N. K. Lewis; Y. Lassailly; L. Martinelli; I. Vobornik; J. Fujii; C. Bigi; E. Brunkow; N. B. Clayburn; T. J. Gay; W. R. Flavell; E. A. Seddon;
+https://arxiv.org/abs/1903.07383
+Social Identity in Software Development
+Andreas Bäckevik; Erik Tholén; Lucas Gren;
+https://arxiv.org/abs/1903.07377
+Evaluating Sequence-to-Sequence Models for Handwritten Text Recognition
+Johannes Michael; Roger Labahn; Tobias Grüning; Jochen Zöllner;
+https://arxiv.org/abs/1903.07371
+Coinductive Uniform Proofs
+Ekaterina Komendantskaya; Yue Li;
+https://arxiv.org/abs/1903.07353
+Joint axis estimation for fast and slow movements using weighted gyroscope and acceleration constraints
+Fredrik Olsson; Thomas Seel; Dustin Lehmann; Kjartan Halvorsen;
+https://arxiv.org/abs/1903.07351
+Single-photon SPAD imagers in biophotonics: Review and Outlook
+Claudio Bruschini; Harald Homulle; Ivan Michel Antolovic; Samuel Burri; Edoardo Charbon;
+https://arxiv.org/abs/1903.07339
+Data-Enabled Predictive Control for Grid-Connected Power Converters
+Linbin Huang; Jeremy Coulson; John Lygeros; Florian Dorfler;
+https://arxiv.org/abs/1903.07320
+Deep Gaussian Processes for Multi-fidelity Modeling
+Kurt Cutajar; Mark Pullin; Andreas Damianou; Neil Lawrence; Javier González;
+https://arxiv.org/abs/1903.07288
+Effects of padding on LSTMs and CNNs
+Mahidhar Dwarampudi; N V Subba Reddy;
+https://arxiv.org/abs/1903.07279
+POI Semantic Model with a Deep Convolutional Structure
+Ji Zhao; Meiyu Yu; Huan Chen; Boning Li; Lingyu Zhang; Qi Song; Li Ma; Hua Chai; Jieping Ye;
+https://arxiv.org/abs/1903.07273
+Prototype-based classifiers in the presence of concept drift: A modelling framework
+Michael Biehl; Fthi Abadi; Christina Göpfert; Barbara Hammer;
+https://arxiv.org/abs/1903.07271
+The CALorimetric Electron Telescope (CALET) on the International Space Station: Results from the First Two Years On Orbit
+Y. Asaoka; O. Adriani; Y. Akaike; K. Asano; M.G. Bagliesi; E. Berti; G. Bigongiari; W.R. Binns; S. Bonechi; M. Bongi; A. Bruno; P. Brogi; J.H. Buckley; N. Cannady; G. Castellini; C. Checchia; M.L. Cherry; G. Collazuol; V.Di. Felice; K. Ebisawa; H. Fuke; T.G. Guzik; T. Hams; N. Hasebe; K. Hibino; M. Ichimura; K. Ioka; W. Ishizaki; M.H. Israel; K. Kasahara; J. Kataoka; R. Kataoka; Y. Katayose; C. Kato; N. Kawanaka; Y. Kawakubo; K. Kohri; H.S. Krawczynski; J.F. Krizmanic; T. Lomtadze; P. Maestro; P.S. Marrocchesi; A.M. Messineo; J.W. Mitchell; S. Miyake; A.A. Moiseev; K. Mori; M. Mori; N. Mori; H.M. Motz; K. Munakata; H. Murakami; S. Nakahira; J. Nishimura; G.A.De. Nolfo; S. Okuno; J.F. Ormes; S. Ozawa; L. Pacini; F. Palma; V. Pal'shin; P. Papini; A.V. Penacchioni; B.F. Rauch; S.B. Ricciarini; K. Sakai; T. Sakamoto; M. Sasaki; Y. Shimizu; A. Shiomi; R. Sparvoli; P. Spillantini; F. Stolzi; S. Sugita; J.E. Suh; A. Sulaj; I. Takahashi; M. Takayanagi; M. Takita; T. Tamura; N. Tateyama; T. Terasawa; H. Tomida; S. Torii; Y. Tsunesada; Y. Uchihori; S. Ueno; E. Vannuccini; J.P. Wefel; K. Yamaoka; S. Yanagita; A. Yoshida; K. Yoshida;
+https://arxiv.org/abs/1903.07266
+Distributed stochastic optimization with gradient tracking over strongly-connected networks
+Ran Xin; Anit Kumar Sahu; Usman A. Khan; Soummya Kar;
+https://arxiv.org/abs/1903.07245
+Energy dependent amplitude of Brillouin oscillations in GaP
+Andrey Baydin; Rustam Gatamov; Halina Krzyzanowska; Christopher J. Stanton; Norman Tolk;
+https://arxiv.org/abs/1903.07243
+Complex Scene Classification of PolSAR Imagery based on a Self-paced Learning Approach
+Wenshuai Chen; Shuiping Gou; Xinlin Wang; Licheng Jiao; Changzhe Jiao; Alina Zare;
+https://arxiv.org/abs/1903.07238
+Robust Trajectory and Resource Allocation Design for Secure UAV-aided Communications
+Xiaofang Sun; Chao Shen; Derrick Wing Kwan Ng; Zhangdui Zhong;
+https://arxiv.org/abs/1903.07221
+Multidimensional ground reaction forces and moments from wearable sensor accelerations via deep learning
+William R. Johnson; Ajmal Mian; Mark A. Robinson; Jasper Verheul; David G. Lloyd; Jacqueline A. Alderson;
+https://arxiv.org/abs/1903.07214
+A Control Lyapunov Perspective on Episodic Learning via Projection to State Stability
+Andrew J. Taylor; Victor D. Dorobantu; Meera Krishnamoorthy; Hoang M. Le; Yisong Yue; Aaron D. Ames;
+https://arxiv.org/abs/1903.07194
+Sensing Micro-colloid Concentration by Spectral Impedance Measurements and Relaxation Times Analysis
+Roberto G. Ramírez-Chavarría; Celia Sánchez-Pérez;
+https://arxiv.org/abs/1903.07182
+Knowledge Graph Development for App Store Data Modeling
+Mariia Rizun; Artur Strzelecki;
+https://arxiv.org/abs/1903.07181
+On the Computation and Applications of Large Dense Partial Correlation Networks
+Keith Dillon;
+https://arxiv.org/abs/1903.07173
+Training recurrent neural networks robust to incomplete data: application to Alzheimer's disease progression modeling
+Mostafa Mehdipour Ghazi; Mads Nielsen; Akshay Pai; M. Jorge Cardoso; Marc Modat; Sebastien Ourselin; Lauge Sørensen;
+https://arxiv.org/abs/1903.07171
+Responsible and Representative Multimodal Data Acquisition and Analysis: On Auditability, Benchmarking, Confidence, Data-Reliance & Explainability
+Alice Baird; Simone Hantke; Björn Schuller;
+https://arxiv.org/abs/1903.07167
+Machine Learning: A Dark Side of Cancer Computing
+Ripon Patgiri; Sabuzima Nayak; Tanya Akutota; Bishal Paul;
+https://arxiv.org/abs/1903.07157
+Modeling and Optimization of Human-machine Interaction Processes via the Maximum Entropy Principle
+Jiaxiao Zheng; Gustavo de Veciana;
+https://arxiv.org/abs/1903.07152
+Characterizing Transiting Exoplanets with JWST Guaranteed Time and ERS Observations
+Thomas Greene; Jacob Bean; Thomas Beatty; Jeroen Bouwman; Jonathan Fortney; Yasuhiro Hasegawa; Thomas Henning; David Lafreniere; Pierre-Olivier Lagage; George Rieke; Thomas Roellig; Everett Schlawin; Kevin Stevenson;
+https://arxiv.org/abs/1903.07135
+Two-Layer Decoding in Cellular Massive MIMO Systems with Spatial Channel Correlation
+Trinh Van Chien; Christopher Mollén; Emil Björnson;
+https://arxiv.org/abs/1903.07114
+No Delay: Latency-Driven, Application Performance-Aware, Cluster Scheduling
+Diana Andreea Popescu; Andrew W. Moore;
+https://arxiv.org/abs/1903.07097
+Time Series Predict DB
+Abdullah Alomar; Muhammad J. Amjad; Robert Lindland; Devavrat Shah;
+https://arxiv.org/abs/1903.07067
+Spatiotemporal Filtering for Event-Based Action Recognition
+Rohan Ghosh; Anupam Gupta; Andrei Nakagawa; Alcimar Soares; Nitish Thakor;
+https://arxiv.org/abs/1903.07062
+AdaGraph: Unifying Predictive and ContinuousDomain Adaptation through Graphs
+Massimiliano Mancini; Samuel Rota Bulò; Barbara Caputo; Elisa Ricci;
+https://arxiv.org/abs/1903.07058
+Learning Competitive and Discriminative Reconstructions for Anomaly Detection
+Kai Tian; Shuigeng Zhou; Jianping Fan; Jihong Guan;
+https://arxiv.org/abs/1903.07054
+Adversarial Attacks on Deep Neural Networks for Time Series Classification
+H. Ismail Fawaz; G. Forestier; J. Weber; L. Idoumghar; P. Muller;
+https://arxiv.org/abs/1903.07047
+General techniques for approximate incidences and their application to the camera posing problem
+Dror Aiger; Haim Kaplan; Efi Kokiopoulou; Micha Sharir; Bernhard Zeisl;
+https://arxiv.org/abs/1903.07045
+Deep Feature Selection using a Teacher-Student Network
+Ali Mirzaei; Vahid Pourahmadi; Mehran Soltani; Hamid Sheikhzadeh;
+https://arxiv.org/abs/1903.07032
+TurkScanner: Predicting the Hourly Wage of Microtasks
+Susumu Saito; Chun-Wei Chiang; Saiph Savage; Teppei Nakano; Tetsunori Kobayashi; Jeffrey Bigham;
+https://arxiv.org/abs/1903.07027
+Reconstructing neuronal anatomy from whole-brain images
+James Gornet; Kannan Umadevi Venkataraju; Arun Narasimhan; Nicholas Turner; Kisuk Lee; H. Sebastian Seung; Pavel Osten; Uygar Sümbül;
+https://arxiv.org/abs/1903.07011
+Deep Features for Tissue-Fold Detection in Histopathology Images
+Morteza Babaie; H.R. Tizhoosh;
+https://arxiv.org/abs/1903.07009
+Multi-Authority Attribute-Based Access Control with Smart Contract
+Hao Guo; Ehsan Meamari; Chien-Chung Shen;
+https://arxiv.org/abs/1903.07003
+Model-Based Task Transfer Learning
+Charlott Vallon; Francesco; Borrelli;
+https://arxiv.org/abs/1903.07000
+Completing the Hydrogen Census in the Circumgalactic Medium at z~0
+D.J. Pisano; A. Fox; D. French; J.C. Howk; N. Lehner; F.J. Lockman; K. Jones;
+https://arxiv.org/abs/1903.06996
+Practical Distributed Learning: Secure Machine Learning with Communication-Efficient Local Updates
+Cong Xie; Sanmi Koyejo; Indranil Gupta;
+https://arxiv.org/abs/1903.06994
+Visual Query Answering by Entity-Attribute Graph Matching and Reasoning
+Peixi Xiong; Huayi Zhan; Xin Wang; Baivab Sinha; Ying Wu;
+https://arxiv.org/abs/1903.06981
+Token Swapping on Trees
+Ahmad Biniaz; Kshitij Jain; Anna Lubiw; Zuzana Masárová; Tillmann Miltzow; Debajyoti Mondal; Anurag Murty Naredla; Josef Tkadlec; Alexi Turcotte;
+https://arxiv.org/abs/1903.06969
+Domain adaptation for holistic skin detection
+Aloisio Dourado; Frederico Guth; Teofilo Emidio de Campos; Li Weigang;
+https://arxiv.org/abs/1903.06963
+Imbalanced multi-label classification using multi-task learning with extractive summarization
+John Brandt;
+https://arxiv.org/abs/1903.06957
+The Second AGILE Catalog of Gamma-Ray Sources
+A. Bulgarelli; V. Fioretti; N. Parmiggiani; F. Verrecchia; C. Pittori; F. Lucarelli; M. Tavani; A. Aboudan; M. Cardillo; A. Giuliani; P. W. Cattaneo; A.W. Chen; G. Piano; A. Rappoldi; L. Baroncelli; A. Argan; L.A. Antonelli; I. Donnarumma; F. Gianotti; P. Giommi; M. Giusti; F. Longo; A. Pellizzoni; M. Pilia; M. Trifoglio; A. Trois; S. Vercellone; A. Zoli;
+https://arxiv.org/abs/1903.06955
+Nerve Theorem on a Positive Reach set
+Jisu Kim; Jaehyeok Shin; Alessandro Rinaldo; Larry Wasserman;
+https://arxiv.org/abs/1903.06950
+A Partition-centric Distributed Algorithm for Identifying Euler Circuits in Large Graphs
+Siddharth D Jaiswal; Yogesh Simmhan;
+https://arxiv.org/abs/1903.06949
+Hand range of motion evaluation for Rheumatoid Arthritis patients
+Luciano Walenty Xavier Cejnog; Roberto Marcondes Cesar Jr.; Teofilo Emidio de Campos; Valeria Meirelles Carril Elui;
+https://arxiv.org/abs/1903.06944
+Astro2020 Science White Paper: Synoptic Studies of the Sun as a Key to Understanding Stellar Astrospheres
+Valentin Martinez Pillet; Frank Hill; Heidi Hammel; Dr. Alfred G. de Wijn; Sanjay Gosain; Joan Burkepile; Carl J. Henney; James R. T. McAteer; Hazel M. Bain; Ward B. Manchester IV; Haosheng Lin; Markus Roth; Kiyoshi Ichimoto; Yoshinori Suematsu;
+https://arxiv.org/abs/1903.06914
+An Accurate Bilinear Cavern Model for Compressed Air Energy Storage
+Junpeng Zhan; Osama Aslam Ansari; Weijia Liu; C. Y. Chung;
+https://arxiv.org/abs/1903.06904
+k-Means Clustering of Lines for Big Data
+Yair Marom; Dan Feldman;
+https://arxiv.org/abs/1903.06898
+On-Line Balancing of Random Inputs
+Nikhil Bansal; Joel H. Spencer;
+https://arxiv.org/abs/1903.06877
+Spherical Principal Component Analysis
+Kai Liu; Qiuwei Li; Hua Wang; Gongguo Tang;
+https://arxiv.org/abs/1903.06871
+A Provably Communication-Efficient Asynchronous Distributed Inference Method for Convex and Nonconvex Problems
+Jineng Ren; Jarvis Haupt;
+https://arxiv.org/abs/1903.06864
+Domain Generalization by Solving Jigsaw Puzzles
+Fabio Maria Carlucci; Antonio D'Innocente; Silvia Bucci; Barbara Caputo; Tatiana Tommasi;
+https://arxiv.org/abs/1903.06842
+On Persistency of Excitation and Formulas for Data-driven Control
+Claudio De Persis; Pietro Tesi;
+https://arxiv.org/abs/1903.06838
+Ultrafast processing of pixel detector data with machine learning frameworks
+Gabriel Blaj; Chu-En Chang; Christopher J. Kenney;
+https://arxiv.org/abs/1903.06837
+Visual recognition in the wild by sampling deep similarity functions
+Mikhail Usvyatsov; Konrad Schindler;
+https://arxiv.org/abs/1903.06828
+Data-driven Identification and Prediction of Power System Dynamics Using Linear Operators
+Pranav Sharma; Bowen Huang; Umesh Vaidya; Venkatramana Ajjarapu;
+https://arxiv.org/abs/1903.06827
+Does Homophily Make Socialbots More Influential? Exploring Infiltration Strategies
+Samaneh Hosseini Moghaddam; Mandana Khademi; Maghsoud Abbaspour;
+https://arxiv.org/abs/1903.06821
+Availability of Hyperlinked Resources in Astrophysics Papers
+P. Wesley Ryan; Alice Allen; Peter Teuben;
+https://arxiv.org/abs/1903.06816
+On the Use of Planetary Science Data for Studying Extrasolar Planets
+Daniel J. Crichton; J. Steve Hughes; Gael Roudier; Robert A. West; Jeffrey Jewell; Geoffrey Bryden; Mark Swain; T. Joseph W. Lazio (Jet Propulsion Laboratory; California Institute of Technology)    ;
+https://arxiv.org/abs/1903.06813
+Machine Learning the Voltage of Electrode Materials in Metal-ion Batteries
+Rajendra P. Joshi; Jesse Eickholt; Liling Li; Marco Fornari; Veronica Barone; Juan E. Peralta;
+https://arxiv.org/abs/1903.06802
+Workflow-Driven Distributed Machine Learning in CHASE-CI: A Cognitive Hardware and Software Ecosystem Community Infrastructure
+Ilkay Altintas; Kyle Marcus; Isaac Nealey; Scott L. Sellars; John Graham; Dima Mishin; Joel Polizzi; Daniel Crawl; Thomas DeFanti; Larry Smarr;
+https://arxiv.org/abs/1903.06798
+An "On The Fly" Framework for Efficiently Generating Synthetic Big Data Sets
+Karl Mason; Sadegh Vejdan; Santiago Grijalva;
+https://arxiv.org/abs/1903.06796
+Astro2020 Science White Paper: The Next Decade of Astroinformatics and Astrostatistics
+A.Siemiginowska; G. Eadie; I. Czekala; E. Feigelson; E.B. Ford; V. Kashyap; M. Kuhn; T.Loredo; M.Ntampaka; A. Stevens; A. Avelino; K. Borne; T. Budavari; B. Burkhart; J. Cisewski-Kehe; F. Civano; I. Chilingarian; D.A. van Dyk; G. Fabbiano; D. P. Finkbeiner; D. Foreman-Mackey; P. Freeman; A. Fruscione; A.A. Goodman; M. Graham; H.M. Guenther; J. Hakkila; L. Hernquist; D. Huppenkothen; D. J. James; C. Law; J. Lazio; T. Lee; M. López-Morales; A. A. Mahabal; K. Mandel; X.L. Meng; J. Moustakas; D. Muna; J. E. G. Peek; G.Richards; S. K.N. Portillo; J. Scargle; R. S. de Souza; J. S. Speagle; K. G. Stassun; D. C. Stenning; S. R. Taylor; G. R. Tremblay; V. Trimble; P.A. Yanamandra-Fisher; C. A. Young;
+https://arxiv.org/abs/1903.06781
+Zero Shot Learning with the Isoperimetric Loss
+Shay Deutsch; Andrea Bertozzi; Stefano Soatto;
+https://arxiv.org/abs/1903.06772
+A Methodology for Using GitLab for Software Engineering Learning Analytics
+Julio César Cortés Ríos; Kamilla Kopec-Harding; Sukru Eraslan; Christopher Page; Robert Haines; Caroline Jay; Suzanne M. Embury;
+https://arxiv.org/abs/1903.06763
+Smart, Deep Copy-Paste
+Tiziano Portenier; Qiyang Hu; Paolo Favaro; Matthias Zwicker;
+https://arxiv.org/abs/1903.06762
+The scenario approach meets uncertain variational inequalities and game theory
+Dario Paccagnan; Marco C. Campi;
+https://arxiv.org/abs/1903.06756
+Predicting customer's gender and age depending on mobile phone data
+Ibrahim Mousa AlZuabi; Assef Jafar; Kadan Aljoumaa;
